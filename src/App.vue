@@ -6,13 +6,13 @@
   <div class="container max-w-lg bg-white rounded dark:bg-gray-800 shadow-lg transform duration-200 easy-in-out m-12">
     <div class="h-2/4 sm:h-64 overflow-hidden">
       <img class="w-full rounded-t"
-      img src="src/assets/adam.jpg"
+      img src="/src/assets/adam.jpg"
         alt="darwish" />
     </div>
     <div class="flex justify-start px-5 -mt-12 mb-5">
       <span clspanss="block relative h-32 w-32">
         <img alt="Adam"
-          img src="src/assets/adamdr.jpg"
+          img src="/src/assets/adamdr.jpg"
           class="mx-auto object-cover rounded-full h-24 w-24 bg-white p-1" />
       </span>
     </div>
